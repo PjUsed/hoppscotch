@@ -2,7 +2,7 @@
   "name": "hoppscotch",
   "version": "1.10.0",
   "description": "Open source API development ecosystem",
-  "author": "liyasthomas",
+  "author": "Hoppscotch (support@hoppscotch.io)",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -48,7 +48,7 @@
     "yargs-parser": "^20.2.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.15",
+    "@babel/core": "^7.13.16",
     "@babel/plugin-proposal-class-properties": "^7.12.13",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.13.8",
     "@babel/plugin-proposal-optional-chaining": "^7.13.12",

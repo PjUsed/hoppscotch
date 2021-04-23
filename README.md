@@ -10,7 +10,7 @@
   </p>
   <p>
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhoppscotch.io&logo=hoppscotch)](https://hoppscotch.io) [![Travis Build Status](https://img.shields.io/travis/com/hoppscotch/hoppscotch/main?logo=Travis)](https://travis-ci.com/hoppscotch/hoppscotch) [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fhoppscotch.io%2F)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fhoppscotch.io&text=%F0%9F%91%BD%20Hoppscotch%20%E2%80%A2%20API%20request%20builder%20-%20Helps%20you%20create%20requests%20faster%2C%20saving%20precious%20time%20on%20development&original_referer=https%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3D%25F0%259F%2591%25BD%2520Hoppscotch%2520%25E2%2580%25A2%2520API%2520request%2520builder%2520-%2520Helps%2520you%2520create%2520requests%2520faster%2C%2520saving%2520precious%2520time%2520on%2520development%26url%3Dhttps%3A%2F%2Fhoppscotch.io%26hashtags%3Dhoppscotch%26via%3Dliyasthomas&via=liyasthomas&hashtags=hoppscotch)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhoppscotch.io&logo=hoppscotch)](https://hoppscotch.io) [![Travis Build Status](https://img.shields.io/travis/com/hoppscotch/hoppscotch/main?logo=Travis)](https://travis-ci.com/hoppscotch/hoppscotch) [![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fhoppscotch.io%2F)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fhoppscotch.io&text=%F0%9F%91%BD%20Hoppscotch%20%E2%80%A2%20API%20request%20builder%20-%20Helps%20you%20create%20requests%20faster%2C%20saving%20precious%20time%20on%20development&original_referer=https%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3D%25F0%259F%2591%25BD%2520Hoppscotch%2520%25E2%2580%25A2%2520API%2520request%2520builder%2520-%2520Helps%2520you%2520create%2520requests%2520faster%2C%2520saving%2520precious%2520time%2520on%2520development%26url%3Dhttps%3A%2F%2Fhoppscotch.io%26hashtags%3Dhoppscotch%26via%3Dhoppscotch_io&via=hoppscotch_io&hashtags=hoppscotch)
 
   </p>
   <p>
@@ -45,7 +45,7 @@
 
 #### **Contact**
 
-[![Chat on Telegram](https://img.shields.io/badge/chat-Telegram-2CA5E0?logo=Telegram)](https://t.me/hoppscotch) [![Chat on Discord](https://img.shields.io/badge/chat-Discord-7289DA?logo=discord)](https://discord.gg/GAMWxmR)
+[![Chat on Telegram](https://img.shields.io/badge/chat-Telegram-2CA5E0?logo=Telegram)](http://hoppscotch.io/telegram) [![Chat on Discord](https://img.shields.io/badge/chat-Discord-7289DA?logo=discord)](http://hoppscotch.io/discord)
 
 #### **Support**
 
